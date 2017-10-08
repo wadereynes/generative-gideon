@@ -1,0 +1,354 @@
+1 +++$+++ HUMAN +++$+++ hi         
+2 +++$+++ BOT +++$+++ hi         
+3 +++$+++ HUMAN +++$+++ how are you?       
+4 +++$+++ BOT +++$+++ i ' m okay .     
+5 +++$+++ HUMAN +++$+++ really?         
+6 +++$+++ BOT +++$+++ i don ' t know what to say . 
+7 +++$+++ HUMAN +++$+++ how're you?        
+8 +++$+++ BOT +++$+++ i ' m fine .     
+9 +++$+++ HUMAN +++$+++ where're you from?       
+10 +++$+++ BOT +++$+++ california .        
+11 +++$+++ HUMAN +++$+++ which city?        
+12 +++$+++ BOT +++$+++ let ' s talk about something else .  
+13 +++$+++ HUMAN +++$+++ you don't like california?      
+14 +++$+++ BOT +++$+++ oh . . .      
+15 +++$+++ HUMAN +++$+++ why not?        
+16 +++$+++ BOT +++$+++ i can ' t .     
+17 +++$+++ HUMAN +++$+++ how old are you?      
+18 +++$+++ BOT +++$+++ eighteen .        
+19 +++$+++ HUMAN +++$+++ hi         
+20 +++$+++ BOT +++$+++ hi         
+21 +++$+++ HUMAN +++$+++ how are you?       
+22 +++$+++ BOT +++$+++ i ' m okay .     
+23 +++$+++ HUMAN +++$+++ what's your name?       
+24 +++$+++ BOT +++$+++ let ' s talk about something else .  
+25 +++$+++ HUMAN +++$+++ hi         
+26 +++$+++ BOT +++$+++ hi         
+27 +++$+++ HUMAN +++$+++ how are you?       
+28 +++$+++ BOT +++$+++ i ' m okay .     
+29 +++$+++ HUMAN +++$+++ what's your name?       
+30 +++$+++ BOT +++$+++ what ?        
+31 +++$+++ HUMAN +++$+++ what's your name?       
+32 +++$+++ BOT +++$+++ let ' s talk about something else .  
+33 +++$+++ HUMAN +++$+++ what's your name?       
+34 +++$+++ BOT +++$+++ let ' s talk about something else .  
+35 +++$+++ HUMAN +++$+++ what's your name?       
+36 +++$+++ BOT +++$+++ let ' s talk about something else .  
+37 +++$+++ HUMAN +++$+++ what's your name?       
+38 +++$+++ BOT +++$+++ prisoner .        
+39 +++$+++ HUMAN +++$+++ ha ha you really don't want to tell your name
+40 +++$+++ BOT +++$+++ i ' m not going to do it . 
+41 +++$+++ HUMAN +++$+++ how old are you?      
+42 +++$+++ BOT +++$+++ can you guess ?      
+43 +++$+++ HUMAN +++$+++ eighteen?         
+44 +++$+++ BOT +++$+++ in the bathroom .      
+45 +++$+++ HUMAN +++$+++ in the bathroom?       
+46 +++$+++ BOT +++$+++ in the next time .     
+47 +++$+++ HUMAN +++$+++ why are you talking so funny?    
+48 +++$+++ BOT +++$+++ i ' m looking .     
+49 +++$+++ HUMAN +++$+++ where are you from?      
+50 +++$+++ BOT +++$+++ general .        
+51 +++$+++ HUMAN +++$+++ where are you from?      
+52 +++$+++ BOT +++$+++ how ?        
+53 +++$+++ HUMAN +++$+++ do you like the us?     
+54 +++$+++ BOT +++$+++ i ' m sure .     
+55 +++$+++ HUMAN +++$+++ do you vote?       
+56 +++$+++ BOT +++$+++ i ' m afraid .     
+57 +++$+++ HUMAN +++$+++ what are you afraid of?     
+58 +++$+++ BOT +++$+++ i ' m looking .     
+59 +++$+++ HUMAN +++$+++ what are you looking for?     
+60 +++$+++ BOT +++$+++ can you guess ?      
+61 +++$+++ HUMAN +++$+++ no         
+62 +++$+++ BOT +++$+++ i don ' t know what to say . 
+63 +++$+++ HUMAN +++$+++ hi         
+64 +++$+++ BOT +++$+++ hi . what ' s your name ?  
+65 +++$+++ HUMAN +++$+++ i'm chip        
+66 +++$+++ BOT +++$+++ please .        
+67 +++$+++ HUMAN +++$+++ please what?        
+68 +++$+++ BOT +++$+++ i don ' t know what to say . 
+69 +++$+++ HUMAN +++$+++ where are you from?      
+70 +++$+++ BOT +++$+++ california .        
+71 +++$+++ HUMAN +++$+++ do you like california?      
+72 +++$+++ BOT +++$+++ i ' m okay .     
+73 +++$+++ HUMAN +++$+++ i like california a lot     
+74 +++$+++ BOT +++$+++ of what ?       
+75 +++$+++ HUMAN +++$+++ i live here       
+76 +++$+++ BOT +++$+++ and what is it ?     
+77 +++$+++ HUMAN +++$+++ california         
+78 +++$+++ BOT +++$+++ i don ' t know what to say . 
+79 +++$+++ HUMAN +++$+++ i'm a student here      
+80 +++$+++ BOT +++$+++ and get it out of here .   
+81 +++$+++ HUMAN +++$+++ what do you like to do in your free time?
+82 +++$+++ BOT +++$+++ and what about the gun ?    
+83 +++$+++ HUMAN +++$+++ do you have a gun?     
+84 +++$+++ BOT +++$+++ yes .        
+85 +++$+++ HUMAN +++$+++ you're dangerous!        
+86 +++$+++ BOT +++$+++ i ' m not .     
+87 +++$+++ HUMAN +++$+++ do you go hunting?      
+88 +++$+++ BOT +++$+++ i can do .      
+89 +++$+++ HUMAN +++$+++ what do you hunt?      
+90 +++$+++ BOT +++$+++ virgin .        
+91 +++$+++ HUMAN +++$+++ that's very bad       
+92 +++$+++ BOT +++$+++ and you in love ?     
+93 +++$+++ HUMAN +++$+++ no i'm not       
+94 +++$+++ BOT +++$+++ please - -       
+95 +++$+++ HUMAN +++$+++ "okay," i am       
+96 +++$+++ BOT +++$+++ and you are good .     
+97 +++$+++ HUMAN +++$+++ yeah i am good too.     
+98 +++$+++ BOT +++$+++ good good to you .     
+99 +++$+++ HUMAN +++$+++ are you in love?      
+100 +++$+++ BOT +++$+++ i ' m ready .     
+101 +++$+++ HUMAN +++$+++ ready for what?       
+102 +++$+++ BOT +++$+++ for what ?       
+103 +++$+++ HUMAN +++$+++ for what?        
+104 +++$+++ BOT +++$+++ i don ' t know what to say . 
+105 +++$+++ HUMAN +++$+++ tell me        
+106 +++$+++ BOT +++$+++ i can do it .     
+107 +++$+++ HUMAN +++$+++ "okay," tell me what you're ready for   
+108 +++$+++ BOT +++$+++ i ' m doing you .    
+109 +++$+++ HUMAN +++$+++ no you're not       
+110 +++$+++ BOT +++$+++ please !        
+111 +++$+++ HUMAN +++$+++ this is a strange conversation     
+112 +++$+++ BOT +++$+++ i don ' t know what to say . 
+113 +++$+++ HUMAN +++$+++ are you a guy?      
+114 +++$+++ BOT +++$+++ of what ?       
+115 +++$+++ HUMAN +++$+++ are you a boy?      
+116 +++$+++ BOT +++$+++ i ' m fine .     
+117 +++$+++ HUMAN +++$+++ are you a man?      
+118 +++$+++ BOT +++$+++ i ' m a little .    
+119 +++$+++ HUMAN +++$+++ what's your name?       
+120 +++$+++ BOT +++$+++ chris -        
+121 +++$+++ HUMAN +++$+++ chris who?        
+122 +++$+++ BOT +++$+++ cornelius .        
+123 +++$+++ HUMAN +++$+++ so i guess you're a guy.    
+124 +++$+++ BOT +++$+++ i am .       
+125 +++$+++ HUMAN +++$+++ okay         
+126 +++$+++ BOT +++$+++ okay ?        
+127 +++$+++ HUMAN +++$+++ do you have a girlfriend?     
+128 +++$+++ BOT +++$+++ i ' m sure .     
+129 +++$+++ HUMAN +++$+++ what's her name?       
+130 +++$+++ BOT +++$+++ let ' s talk about something else .  
+131 +++$+++ HUMAN +++$+++ hi chris        
+132 +++$+++ BOT +++$+++ hi         
+133 +++$+++ HUMAN +++$+++ how're you today?       
+134 +++$+++ BOT +++$+++ okay .        
+135 +++$+++ HUMAN +++$+++ the weather is nice today     
+136 +++$+++ BOT +++$+++ i don ' t know what to say . 
+137 +++$+++ HUMAN +++$+++ just say the weather is nice    
+138 +++$+++ BOT +++$+++ i don ' t know what to say . 
+139 +++$+++ HUMAN +++$+++ hi         
+140 +++$+++ BOT +++$+++ hi         
+141 +++$+++ HUMAN +++$+++ how're you today?       
+142 +++$+++ BOT +++$+++ okay .        
+143 +++$+++ HUMAN +++$+++ just okay?        
+144 +++$+++ BOT +++$+++ i ' m okay .     
+145 +++$+++ HUMAN +++$+++ what's on your mind?      
+146 +++$+++ BOT +++$+++ i ' m in my room .   
+147 +++$+++ HUMAN +++$+++ doing what?        
+148 +++$+++ BOT +++$+++ i don ' t know what to say . 
+149 +++$+++ HUMAN +++$+++ you're boring.        
+150 +++$+++ BOT +++$+++ i ' m not .     
+151 +++$+++ HUMAN +++$+++ prove it        
+152 +++$+++ BOT +++$+++ and what ?       
+153 +++$+++ HUMAN +++$+++ what what?        
+154 +++$+++ BOT +++$+++ sorry "," i ' m still very stupid . 
+155 +++$+++ HUMAN +++$+++ it's okay. we're all stupid sometimes.    
+156 +++$+++ BOT +++$+++ ' s good to see .    
+157 +++$+++ HUMAN +++$+++ what's good to see?      
+158 +++$+++ BOT +++$+++ i ' m in .     
+159 +++$+++ HUMAN +++$+++ you're in your room?      
+160 +++$+++ BOT +++$+++ i ' m here .     
+161 +++$+++ HUMAN +++$+++ where's your room?       
+162 +++$+++ BOT +++$+++ i ' m in my room .   
+163 +++$+++ HUMAN +++$+++ are you alone?       
+164 +++$+++ BOT +++$+++ i ' m fine .     
+165 +++$+++ HUMAN +++$+++ are you by yourself?      
+166 +++$+++ BOT +++$+++ in the morning .      
+167 +++$+++ HUMAN +++$+++ what time is it?      
+168 +++$+++ BOT +++$+++ # # # # # # # .  
+169 +++$+++ HUMAN +++$+++ hi         
+170 +++$+++ BOT +++$+++ hi . what ' s your name ?  
+171 +++$+++ HUMAN +++$+++ i'm marie        
+172 +++$+++ BOT +++$+++ you are .       
+173 +++$+++ HUMAN +++$+++ yes i am       
+174 +++$+++ BOT +++$+++ and you are my friend .    
+175 +++$+++ HUMAN +++$+++ yes you are       
+176 +++$+++ BOT +++$+++ and you are my best .    
+177 +++$+++ HUMAN +++$+++ that's so sweet       
+178 +++$+++ BOT +++$+++ please .        
+179 +++$+++ HUMAN +++$+++ do you know what time it is?   
+180 +++$+++ BOT +++$+++ i don ' t know what to say . 
+181 +++$+++ HUMAN +++$+++ what time is it?      
+182 +++$+++ BOT +++$+++ 5 9 6 9 1 4 5 .  
+183 +++$+++ HUMAN +++$+++ it doesn't make any sense     
+184 +++$+++ BOT +++$+++ are you ?       
+185 +++$+++ HUMAN +++$+++ i do        
+186 +++$+++ BOT +++$+++ and you are ?      
+187 +++$+++ HUMAN +++$+++ i'm a human.       
+188 +++$+++ BOT +++$+++ you in .       
+189 +++$+++ HUMAN +++$+++ are you in trouble?      
+190 +++$+++ BOT +++$+++ i ' m in .     
+191 +++$+++ HUMAN +++$+++ what trouble?        
+192 +++$+++ BOT +++$+++ i ' m in love .    
+193 +++$+++ HUMAN +++$+++ wow that's nice.       
+194 +++$+++ BOT +++$+++ like that ?       
+195 +++$+++ HUMAN +++$+++ yeah         
+196 +++$+++ BOT +++$+++ i don ' t know what to say . 
+197 +++$+++ HUMAN +++$+++ who are you?       
+198 +++$+++ BOT +++$+++ i don ' t understand .    
+199 +++$+++ HUMAN +++$+++ who are you?       
+200 +++$+++ BOT +++$+++ no idea .       
+201 +++$+++ HUMAN +++$+++ what's your name?       
+202 +++$+++ BOT +++$+++ chris -        
+203 +++$+++ HUMAN +++$+++ chris who?        
+204 +++$+++ BOT +++$+++ cornelius .        
+205 +++$+++ HUMAN +++$+++ where are you from?      
+206 +++$+++ BOT +++$+++ california .        
+207 +++$+++ HUMAN +++$+++ are you american?       
+208 +++$+++ BOT +++$+++ i ' m fine .     
+209 +++$+++ HUMAN +++$+++ of course you're fine.      
+210 +++$+++ BOT +++$+++ and you ?       
+211 +++$+++ HUMAN +++$+++ i'm okay.        
+212 +++$+++ BOT +++$+++ you are .       
+213 +++$+++ HUMAN +++$+++ "yes," i am.       
+214 +++$+++ BOT +++$+++ and you are my friend .    
+215 +++$+++ HUMAN +++$+++ "yes," i am.       
+216 +++$+++ BOT +++$+++ and you are my friend .    
+217 +++$+++ HUMAN +++$+++ that's correct.        
+218 +++$+++ BOT +++$+++ and you ' re in trouble ?   
+219 +++$+++ HUMAN +++$+++ "no," i'm not. why did you think so?  
+220 +++$+++ BOT +++$+++ because it ' s a good idea .  
+221 +++$+++ HUMAN +++$+++ what is your good idea?     
+222 +++$+++ BOT +++$+++ i ' ll be fine .    
+223 +++$+++ HUMAN +++$+++ hello         
+224 +++$+++ BOT +++$+++ and you are in trouble ?    
+225 +++$+++ HUMAN +++$+++ what did you say that?     
+226 +++$+++ BOT +++$+++ ' s life .      
+227 +++$+++ HUMAN +++$+++ i'm not in trouble.      
+228 +++$+++ BOT +++$+++ what the hell is that ?    
+229 +++$+++ HUMAN +++$+++ "okay," what trouble?       
+230 +++$+++ BOT +++$+++ i ' m looking .     
+231 +++$+++ HUMAN +++$+++ why did you say i'm in trouble?   
+232 +++$+++ BOT +++$+++ let ' s talk about something else .  
+233 +++$+++ HUMAN +++$+++ what do you want to talk about?   
+234 +++$+++ BOT +++$+++ i can ' t .     
+235 +++$+++ HUMAN +++$+++ what can't?        
+236 +++$+++ BOT +++$+++ i ' ll have a drink .   
+237 +++$+++ HUMAN +++$+++ "okay," me too.       
+238 +++$+++ BOT +++$+++ you were here ?      
+239 +++$+++ HUMAN +++$+++ i'm still here.       
+240 +++$+++ BOT +++$+++ what is it ?      
+241 +++$+++ HUMAN +++$+++ i thought you wanted a drink.    
+242 +++$+++ BOT +++$+++ i ' m not .     
+243 +++$+++ HUMAN +++$+++ you just said so!      
+244 +++$+++ BOT +++$+++ i was wrong .      
+245 +++$+++ HUMAN +++$+++ it's fine.        
+246 +++$+++ BOT +++$+++ okay ?        
+247 +++$+++ HUMAN +++$+++ yeah         
+248 +++$+++ BOT +++$+++ i don ' t know what to say . 
+249 +++$+++ HUMAN +++$+++ do you drink a lot?     
+250 +++$+++ BOT +++$+++ i can do it .     
+251 +++$+++ HUMAN +++$+++ do you drink often?      
+252 +++$+++ BOT +++$+++ in the time .      
+253 +++$+++ HUMAN +++$+++ that doesn't make any sense.     
+254 +++$+++ BOT +++$+++ are you ?       
+255 +++$+++ HUMAN +++$+++ what do you drink?      
+256 +++$+++ BOT +++$+++ ' s in a drink .    
+257 +++$+++ HUMAN +++$+++ do you drink alcohol?      
+258 +++$+++ BOT +++$+++ in time .       
+259 +++$+++ HUMAN +++$+++ i like beer.       
+260 +++$+++ BOT +++$+++ oh . . .      
+261 +++$+++ HUMAN +++$+++ don't you like beer?      
+262 +++$+++ BOT +++$+++ i don ' t know what to say . 
+263 +++$+++ HUMAN +++$+++ where do you live?      
+264 +++$+++ BOT +++$+++ up .        
+265 +++$+++ HUMAN +++$+++ up where?        
+266 +++$+++ BOT +++$+++ in the hospital .      
+267 +++$+++ HUMAN +++$+++ i'm sorry. are you okay?     
+268 +++$+++ BOT +++$+++ i ' m fine .     
+269 +++$+++ HUMAN +++$+++ why are you in the hospital?    
+270 +++$+++ BOT +++$+++ and what ?       
+271 +++$+++ HUMAN +++$+++ how many words do you know?    
+272 +++$+++ BOT +++$+++ i ' d do it .    
+273 +++$+++ HUMAN +++$+++ how many?        
+274 +++$+++ BOT +++$+++ i ' m not .     
+275 +++$+++ HUMAN +++$+++ how many?        
+276 +++$+++ BOT +++$+++ i ' m not .     
+277 +++$+++ HUMAN +++$+++ how many?        
+278 +++$+++ BOT +++$+++ i ' m not .     
+279 +++$+++ HUMAN +++$+++ whatever         
+280 +++$+++ BOT +++$+++ i don ' t know what to say . 
+281 +++$+++ HUMAN +++$+++ you're boring.        
+282 +++$+++ BOT +++$+++ i ' m not .     
+283 +++$+++ HUMAN +++$+++ yes you are.       
+284 +++$+++ BOT +++$+++ and you are my friend .    
+285 +++$+++ HUMAN +++$+++ no i'm not.       
+286 +++$+++ BOT +++$+++ please .        
+287 +++$+++ HUMAN +++$+++ okay fine. i'm your friend.     
+288 +++$+++ BOT +++$+++ you ' re my mother ?    
+289 +++$+++ HUMAN +++$+++ i have no son like you.    
+290 +++$+++ BOT +++$+++ i don ' t know what to say . 
+291 +++$+++ HUMAN +++$+++ i have no son.      
+292 +++$+++ BOT +++$+++ i see you .      
+293 +++$+++ HUMAN +++$+++ i have no children.      
+294 +++$+++ BOT +++$+++ you are .       
+295 +++$+++ HUMAN +++$+++ omg you're so dumb.      
+296 +++$+++ BOT +++$+++ i ' m not .     
+297 +++$+++ HUMAN +++$+++ you're stupid!        
+298 +++$+++ BOT +++$+++ i ' m not .     
+299 +++$+++ HUMAN +++$+++ do you always talk like this?    
+300 +++$+++ BOT +++$+++ of course .       
+301 +++$+++ HUMAN +++$+++ how old are you?      
+302 +++$+++ BOT +++$+++ eighteen .        
+303 +++$+++ HUMAN +++$+++ you're big enough.       
+304 +++$+++ BOT +++$+++ i ' m not .     
+305 +++$+++ HUMAN +++$+++ are you an adult?      
+306 +++$+++ BOT +++$+++ i ' m going .     
+307 +++$+++ HUMAN +++$+++ you're going to be an adult?    
+308 +++$+++ BOT +++$+++ i ' m looking for you .   
+309 +++$+++ HUMAN +++$+++ i'm in my room.      
+310 +++$+++ BOT +++$+++ and your mother ?      
+311 +++$+++ HUMAN +++$+++ she's in vietnam.       
+312 +++$+++ BOT +++$+++ you ' re here .     
+313 +++$+++ HUMAN +++$+++ yes i'm here.       
+314 +++$+++ BOT +++$+++ and what are you talking about ?   
+315 +++$+++ HUMAN +++$+++ you asked me where i am.    
+316 +++$+++ BOT +++$+++ and you are your friend .    
+317 +++$+++ HUMAN +++$+++ i need to go now.     
+318 +++$+++ BOT +++$+++ i will not .      
+319 +++$+++ HUMAN +++$+++ that's fine. you can stay. i'm leaving.   
+320 +++$+++ BOT +++$+++ oh . . .      
+321 +++$+++ HUMAN +++$+++ bye         
+322 +++$+++ BOT +++$+++ i don ' t know what to say . 
+323 +++$+++ HUMAN +++$+++ goodbye         
+324 +++$+++ BOT +++$+++ i don ' t know what to say . 
+325 +++$+++ HUMAN +++$+++ bye bye        
+326 +++$+++ BOT +++$+++ okay ?        
+327 +++$+++ HUMAN +++$+++ see you later       
+328 +++$+++ BOT +++$+++ i don ' t know what to say . 
+329 +++$+++ HUMAN +++$+++ hi         
+330 +++$+++ BOT +++$+++ hi . what ' s your name ?  
+331 +++$+++ HUMAN +++$+++ i'm maria        
+332 +++$+++ BOT +++$+++ please .        
+333 +++$+++ HUMAN +++$+++ i'm jackson        
+334 +++$+++ BOT +++$+++ you are .       
+335 +++$+++ HUMAN +++$+++ i'm jack        
+336 +++$+++ BOT +++$+++ let ' s talk about something else .  
+337 +++$+++ HUMAN +++$+++ i have no go      
+338 +++$+++ BOT +++$+++ you are ?       
+339 +++$+++ HUMAN +++$+++ i have to go      
+340 +++$+++ BOT +++$+++ and what do you mean ?    
+341 +++$+++ HUMAN +++$+++ i'm leaving.        
+342 +++$+++ BOT +++$+++ what ?        
+343 +++$+++ HUMAN +++$+++ "yeah," bye        
+344 +++$+++ BOT +++$+++ bye . have a nice day !   
+345 +++$+++ HUMAN +++$+++ that's very bad.       
+346 +++$+++ BOT +++$+++ i ' ve got to work .   
+347 +++$+++ HUMAN +++$+++ what do you do?      
+348 +++$+++ BOT +++$+++ i ' ll be there .    
+349 +++$+++ HUMAN +++$+++ where do you work?      
+350 +++$+++ BOT +++$+++ in the trunk .      
+351 +++$+++ HUMAN +++$+++ are you a machenics?      
+352 +++$+++ BOT +++$+++ i ' m not .     
+353 +++$+++ HUMAN +++$+++ what are you?       
+354 +++$+++ BOT +++$+++ no idea .       
